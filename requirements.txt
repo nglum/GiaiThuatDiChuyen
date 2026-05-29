@@ -1,0 +1,14 @@
+# Bài tập lớn: Tối ưu hoá tuyến đường du lịch bằng Giải thuật di truyền
+# Chương trình này sử dụng chỉ các thư viện built-in của Python 3.7+
+# KHÔNG cần cài đặt thêm thư viện ngoài
+
+# Lưu ý: Không dùng thư viện GA có sẵn như DEAP hay PyGAD
+# Phải tự code tay các bước di truyền theo yêu cầu đề bài
+
+# Các module sử dụng (built-in, không cần pip install):
+# - random: Tạo số ngẫu nhiên
+# - math: Tính toán toán học (math.sqrt)
+# - time: Đo thời gian chạy chương trình (tuỳ chọn)
+
+# Để chạy chương trình:
+# python main.py
